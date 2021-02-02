@@ -24,6 +24,8 @@ Is a tool that sits on top of a VM provider.
 - Create your first virtual machine:
     - ```vagrant init ubuntu/trusty64```
     - ```vagrant plugin install vagrant-vbguest```
+
+
 __At this point the installation is complete, then every time you want to acces your VM just follow the next steps:__
 
 - ```vagrant up```
